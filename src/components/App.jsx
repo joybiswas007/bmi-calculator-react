@@ -30,7 +30,7 @@ function App() {
  <h1>
  <Time />
  </h1>
- <h1>Calculate your BMI:</h1>
+ <h1>Calculate your BMI</h1>
   <h1>{result !== null ? `Your BMI: ${result}` : null}</h1>
       <p>
         {result !== null && (
